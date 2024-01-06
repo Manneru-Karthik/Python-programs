@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prog111",
+            "request": "launch",
+            "mainClass": "prog111",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "prog10",
+            "request": "launch",
+            "mainClass": "prog10",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "testiiiiii",
+            "request": "launch",
+            "mainClass": "testiiiiii",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "prog9",
+            "request": "launch",
+            "mainClass": "prog9",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "testingfile",
+            "request": "launch",
+            "mainClass": "testingfile",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "prog8",
+            "request": "launch",
+            "mainClass": "prog8",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "pro7",
+            "request": "launch",
+            "mainClass": "pro7",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "prog6",
+            "request": "launch",
+            "mainClass": "prog6",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "pro4",
+            "request": "launch",
+            "mainClass": "pro4",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "pro5",
+            "request": "launch",
+            "mainClass": "pro5",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "prog1",
+            "request": "launch",
+            "mainClass": "prog1",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "prog2",
+            "request": "launch",
+            "mainClass": "prog2",
+            "projectName": "Python programs_8f2bec55"
+        },
+        {
+            "type": "java",
+            "name": "prog3",
+            "request": "launch",
+            "mainClass": "prog3",
+            "projectName": "Python programs_8f2bec55"
+        }
+    ]
+}
